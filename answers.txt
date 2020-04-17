@@ -1,0 +1,18 @@
+1. Branches in this project:
+* answers
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/bower
+  remotes/origin/index
+  remotes/origin/landing
+  remotes/origin/landing-ru
+  remotes/origin/master
+  remotes/origin/package
+
+2. Branches that have been merged:
+* answers
+  master
+
+3. Total number of commits in the repository: 16
+
+4. Commit "Added package" belongs to package branch and not to the master branch.
